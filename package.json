@@ -1,0 +1,34 @@
+{
+  "name": "react-custom-contextmenu",
+  "version": "0.0.1",
+  "description": "React custom contextmenu support",
+  "main": "lib/index.js",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "prepublish": "yarn build",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarus-sullivan/react-custom-contextmenu.git"
+  },
+  "keywords": [
+    "react",
+    "material",
+    "icons",
+    "ui"
+  ],
+  "author": "Chris Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icarus-sullivan/react-custom-contextmenu/issues"
+  },
+  "homepage": "https://github.com/icarus-sullivan/react-custom-contextmenu#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "typescript": "^3.4.1"
+  }
+}
