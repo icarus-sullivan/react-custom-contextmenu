@@ -1,6 +1,6 @@
 {
   "name": "react-custom-contextmenu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React custom contextmenu support",
   "main": "lib/index.js",
   "files": [
@@ -16,9 +16,10 @@
   },
   "keywords": [
     "react",
-    "material",
-    "icons",
-    "ui"
+    "custom",
+    "contextmenu",
+    "context",
+    "menu"
   ],
   "author": "Chris Sullivan",
   "license": "MIT",
